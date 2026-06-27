@@ -25,7 +25,7 @@ ABISIN RAJ
 </h1>
 
 <div style="margin-top: 20px; text-align: center;">
-  <img src="https://raw.githubusercontent.com/Abisin-Raj/Abisin-Raj/output-tetris/seasons_walking.gif?v=1782597576" alt="Seasons Walking" style="width: 100%; border-radius: 8px; image-rendering: pixelated;" />
+  <img src="https://raw.githubusercontent.com/Abisin-Raj/Abisin-Raj/output-tetris/seasons_walking.gif?v=1782601701" alt="Seasons Walking" style="width: 100%; border-radius: 8px; image-rendering: pixelated;" />
 </div>
 
 </div>
@@ -168,8 +168,8 @@ ABISIN RAJ
     text-align:left;
 ">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abisin-Raj/Abisin-Raj/output-tetris/github-contribution-grid-tetris-dark.gif?v=1782597576">
-    <img style="width:100%; border-radius:8px;" src="https://raw.githubusercontent.com/Abisin-Raj/Abisin-Raj/output-tetris/github-contribution-grid-tetris.gif?v=1782597576" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abisin-Raj/Abisin-Raj/output-tetris/github-contribution-grid-tetris-dark.gif?v=1782601701">
+    <img style="width:100%; border-radius:8px;" src="https://raw.githubusercontent.com/Abisin-Raj/Abisin-Raj/output-tetris/github-contribution-grid-tetris.gif?v=1782601701" />
   </picture>
 </div>
 
